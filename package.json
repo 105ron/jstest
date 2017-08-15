@@ -1,0 +1,23 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/105ron/jstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/105ron/jstest/issues"
+  },
+  "homepage": "https://github.com/105ron/jstest#readme",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "sync": "0.2.5"
+  }
+}
